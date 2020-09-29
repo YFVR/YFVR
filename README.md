@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**YFVR/YFVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 https://t.me/YFVROfficial/
 
 Welcome to the Official $YFVR - Farming/NFT/Augmented and Virtual Reality/Marketplace/Buyback and Burn 🔥
@@ -26,3 +21,6 @@ only 5% Team tokens (Sell 1% max per month)
 70% kept with project for further development (Some spent on other project yield farms to get our pair listed on their site)
 
 🏆Addtional Revenue from business partners (other Yield farms and real life business AR/VR NFT Models).
+
+<!--
+**YFVR/YFVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
